@@ -1,2 +1,2 @@
-# bitacora-U1-base-de-datos
-reporte de practoca correspondiente a la U1 de sistemas de base de datos
+# bitacora-tecnologias-de-base-de-datos
+reporte de practica 1 correspondiente a la U1 de tecnologias de base de datos
